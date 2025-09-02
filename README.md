@@ -36,5 +36,5 @@ This project automates filling the [DemoQA Automation Practice Form](https://dem
 1. **Clone the repository**:
 
 ```bash
-git clone <repository_url>
+git clone git clone https://github.com/Carlosnp23/Webform-Automation-Playwright_V2.git
 cd Webform-Automation-Playwright
